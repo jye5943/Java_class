@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<config date="1552030600203" transient="false">
-	<site updateable="true" url="file:/C:/Users/SMART-12/.p2/pool/" enabled="true" policy="MANAGED-ONLY">
+<config date="1554165778551" transient="false">
+	<site updateable="true" url="file:../../../../.p2\pool\" enabled="true" policy="MANAGED-ONLY">
 		<feature id="org.eclipse.mylyn.commons.notifications" version="1.16.0.v20180904-2231" url="features/org.eclipse.mylyn.commons.notifications_1.16.0.v20180904-2231/" plugin-identifier="org.eclipse.mylyn.commons.core">
 		</feature>
+		<feature id="org.eclipse.wb.swing.doc.user.feature" version="1.9.2.201812270937" url="features/org.eclipse.wb.swing.doc.user.feature_1.9.2.201812270937/" plugin-identifier="org.eclipse.wb.swing.doc.user">
+		</feature>
+		<feature id="org.eclipse.wb.core.ui.feature" version="1.9.2.201812270937" url="features/org.eclipse.wb.core.ui.feature_1.9.2.201812270937/" plugin-identifier="org.eclipse.wb.core.ui">
+		</feature>
 		<feature id="org.eclipse.jgit" version="5.2.0.201812061821-r" url="features/org.eclipse.jgit_5.2.0.201812061821-r/">
+		</feature>
+		<feature id="org.eclipse.wb.swing.feature" version="1.9.2.201812270937" url="features/org.eclipse.wb.swing.feature_1.9.2.201812270937/" plugin-identifier="org.eclipse.wb.swing">
 		</feature>
 		<feature id="org.eclipse.tips.feature" version="0.2.200.v20181107-2118" url="features/org.eclipse.tips.feature_0.2.200.v20181107-2118/">
 		</feature>
@@ -13,13 +19,23 @@
 		</feature>
 		<feature id="org.eclipse.userstorage" version="1.1.0.v20170526-1605" url="features/org.eclipse.userstorage_1.1.0.v20170526-1605/">
 		</feature>
+		<feature id="org.eclipse.wb.core.feature" version="1.9.2.201812270937" url="features/org.eclipse.wb.core.feature_1.9.2.201812270937/" plugin-identifier="org.eclipse.wb.core">
+		</feature>
 		<feature id="org.eclipse.mylyn.wikitext_feature" version="3.0.25.201806201740" url="features/org.eclipse.mylyn.wikitext_feature_3.0.25.201806201740/" plugin-identifier="org.eclipse.mylyn.wikitext">
+		</feature>
+		<feature id="org.eclipse.wb.rcp.SWT_AWT_support" version="1.9.2.201812270937" url="features/org.eclipse.wb.rcp.SWT_AWT_support_1.9.2.201812270937/" plugin-identifier="org.eclipse.wb.rcp.SWT_AWT">
 		</feature>
 		<feature id="org.eclipse.mylyn.commons.identity" version="1.16.0.v20180904-2231" url="features/org.eclipse.mylyn.commons.identity_1.16.0.v20180904-2231/" plugin-identifier="org.eclipse.mylyn.commons.core">
 		</feature>
 		<feature id="org.eclipse.oomph.setup" version="1.12.0.v20190206-0943" url="features/org.eclipse.oomph.setup_1.12.0.v20190206-0943/">
 		</feature>
+		<feature id="org.eclipse.wb.xwt.feature" version="1.9.2.201812270937" url="features/org.eclipse.wb.xwt.feature_1.9.2.201812270937/" plugin-identifier="org.eclipse.wb.xwt">
+		</feature>
 		<feature id="org.eclipse.equinox.p2.core.feature" version="1.6.0.v20181123-1405" url="features/org.eclipse.equinox.p2.core.feature_1.6.0.v20181123-1405/">
+		</feature>
+		<feature id="org.eclipse.wb.core.java.feature" version="1.9.2.201812270937" url="features/org.eclipse.wb.core.java.feature_1.9.2.201812270937/">
+		</feature>
+		<feature id="org.eclipse.wb.layout.group.feature" version="1.9.2.201812270937" url="features/org.eclipse.wb.layout.group.feature_1.9.2.201812270937/" plugin-identifier="org.eclipse.wb.layout.group">
 		</feature>
 		<feature id="org.eclipse.ecf.core.feature" version="1.5.3.v20181012-2020" url="features/org.eclipse.ecf.core.feature_1.5.3.v20181012-2020/">
 		</feature>
@@ -28,6 +44,8 @@
 		<feature id="org.eclipse.oomph.setup.core" version="1.12.0.v20190206-0943" url="features/org.eclipse.oomph.setup.core_1.12.0.v20190206-0943/">
 		</feature>
 		<feature id="org.eclipse.wst.xml_core.feature" version="3.12.0.v201811122127" url="features/org.eclipse.wst.xml_core.feature_3.12.0.v201811122127/">
+		</feature>
+		<feature id="org.eclipse.wb.rcp.doc.user.feature" version="1.9.2.201812270937" url="features/org.eclipse.wb.rcp.doc.user.feature_1.9.2.201812270937/" plugin-identifier="org.eclipse.wb.rcp.doc.user">
 		</feature>
 		<feature id="org.eclipse.ecf.core.ssl.feature" version="1.1.100.v20180301-0201" url="features/org.eclipse.ecf.core.ssl.feature_1.1.100.v20180301-0201/">
 		</feature>
@@ -51,6 +69,10 @@
 		</feature>
 		<feature id="org.eclipse.m2e.logback.feature" version="1.10.0.20181127-2120" url="features/org.eclipse.m2e.logback.feature_1.10.0.20181127-2120/" plugin-identifier="org.eclipse.m2e.logback.configuration">
 		</feature>
+		<feature id="org.eclipse.wb.rcp.feature" version="1.9.2.201812270937" url="features/org.eclipse.wb.rcp.feature_1.9.2.201812270937/" plugin-identifier="org.eclipse.wb.rcp">
+		</feature>
+		<feature id="org.eclipse.wb.swt.feature" version="1.9.2.201812270937" url="features/org.eclipse.wb.swt.feature_1.9.2.201812270937/" plugin-identifier="org.eclipse.wb.swt">
+		</feature>
 		<feature id="org.eclipse.egit.mylyn" version="5.2.0.201812061821-r" url="features/org.eclipse.egit.mylyn_5.2.0.201812061821-r/" plugin-identifier="org.eclipse.egit">
 		</feature>
 		<feature id="org.eclipse.platform" version="4.10.0.v20181206-0815" url="features/org.eclipse.platform_4.10.0.v20181206-0815/">
@@ -67,7 +89,11 @@
 		</feature>
 		<feature id="org.eclipse.help" version="2.2.400.v20181206-0815" url="features/org.eclipse.help_2.2.400.v20181206-0815/" plugin-identifier="org.eclipse.help.base">
 		</feature>
+		<feature id="org.eclipse.wb.core.xml.feature" version="1.9.2.201812270937" url="features/org.eclipse.wb.core.xml.feature_1.9.2.201812270937/" plugin-identifier="org.eclipse.wb.core.xml">
+		</feature>
 		<feature id="org.eclipse.epp.logging.aeri.feature" version="2.0.7.v20180504-0806" url="features/org.eclipse.epp.logging.aeri.feature_2.0.7.v20180504-0806/">
+		</feature>
+		<feature id="org.eclipse.wb.doc.user.feature" version="1.9.2.201812270937" url="features/org.eclipse.wb.doc.user.feature_1.9.2.201812270937/" plugin-identifier="org.eclipse.wb.doc.user">
 		</feature>
 		<feature id="org.eclipse.mylyn.discovery" version="3.24.2.v20180904-2231" url="features/org.eclipse.mylyn.discovery_3.24.2.v20180904-2231/" plugin-identifier="org.eclipse.mylyn.commons.core">
 		</feature>
@@ -100,6 +126,8 @@
 		<feature id="org.eclipse.egit" version="5.2.0.201812061821-r" url="features/org.eclipse.egit_5.2.0.201812061821-r/">
 		</feature>
 		<feature id="org.eclipse.equinox.p2.extras.feature" version="1.4.200.v20181123-1405" url="features/org.eclipse.equinox.p2.extras.feature_1.4.200.v20181123-1405/">
+		</feature>
+		<feature id="org.eclipse.pde" version="3.13.300.v20181206-0815" url="features/org.eclipse.pde_3.13.300.v20181206-0815/">
 		</feature>
 		<feature id="org.eclipse.mylyn.git" version="1.16.0.v20170629-1738" url="features/org.eclipse.mylyn.git_1.16.0.v20170629-1738/" plugin-identifier="org.eclipse.mylyn.versions.core">
 		</feature>
