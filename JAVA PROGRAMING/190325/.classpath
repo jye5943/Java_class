@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="1부터 100까지 소수"/>
+	<classpathentry kind="src" path="1부터 100까지 합"/>
+	<classpathentry kind="src" path="6의 배수"/>
+	<classpathentry kind="src" path="객체 테스트"/>
+	<classpathentry kind="src" path="소수 체크"/>
+	<classpathentry kind="src" path="소수 체크 수정"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
