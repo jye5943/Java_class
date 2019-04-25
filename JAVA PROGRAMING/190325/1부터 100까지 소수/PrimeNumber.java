@@ -1,4 +1,4 @@
-import java.util.Scanner;
+//1에서 100까지 소수 구하기
 
 public class PrimeNumber {
 	public void doCheck(int inputNumber) {

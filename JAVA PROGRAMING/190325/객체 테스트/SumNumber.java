@@ -15,4 +15,4 @@ public class SumNumber {
 		
 		System.out.println("두개의 숫자의 합은 " + (number1 + number2) + "입니다.");
 	}
-}
+} 
