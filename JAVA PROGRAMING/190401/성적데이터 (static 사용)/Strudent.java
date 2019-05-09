@@ -5,7 +5,7 @@ public class Strudent {
 	int korScore;
 	int engScore;
 	int mathScore;
-	static int korTotal = 0;
+	static int korTotal = 0; //RunClass에서 쓰려고 static으로 선언
 	static int engTotal = 0;
 	static int mathTotal = 0;
 	

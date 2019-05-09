@@ -24,7 +24,7 @@ public class Div {
 	public void printResult() {
 		double resultNumber = 0;
 		resultNumber = (double)this.number1 / this.number2;
-		resultNumber = (double)Math.round(resultNumber * 100) / 100;
+		resultNumber = (double)Math.round(resultNumber * 100) / 100; 			//Math.round가 소수점을 지운다.
 		System.out.println("" + this.number1 + "나누기 " + this.number2 + " = " + resultNumber + "입니다.");
 	}
 }

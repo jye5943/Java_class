@@ -20,10 +20,11 @@ public class RunClass {
 		for (int i = 0; i < student.length; i++) {
 			student[i].total = student[i].kor + student[i].eng + student[i].math;
 		}
+		
 		for (int i = 0; i < student.length; i++) {
 			for (int j = i; j < student.length; j++) {
 				if (student[i].total < student[j].total) {
-					Student tmp = student[i]; //媛앹껜 �봽由고듃 �븷�븣 tmp 媛�
+					Student tmp = student[i]; 	//소트 정렬
 					student[i] = student[j];
 					student[j] = tmp;
 					

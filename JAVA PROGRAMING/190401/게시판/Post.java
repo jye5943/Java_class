@@ -15,7 +15,7 @@ public class Post {
 		System.out.println("내용");
 		this.description = scan.nextLine();
 		
-		long time = System.currentTimeMillis(); 
+		long time = System.currentTimeMillis();  //현재시간 띄우기
 		SimpleDateFormat dayTime = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
 		this.createDate = dayTime.format(new Date(time));
 	}

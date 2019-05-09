@@ -6,10 +6,10 @@ public class Student5 {
 	int finalScore;
 
 	
-//	Student5(String name) {
-//		this.name = name;
-//	}
-//	
+	Student5(String name) {  
+		this.name = name;
+	}
+	
 	public void inputData() {
 		Scanner scan = new Scanner(System.in);
 		String tmp;
